@@ -12,3 +12,12 @@ To get started with this project, follow these steps:
 git clone https://github.com/your-username/your-project.git
 ```
 ## Screenshots
+
+desktop preview of the design.
+![Alt Text](desktop-preview.jpg)
+
+desktop design of the page.
+![Alt Text](desktop-design.jpg)
+
+mobile design of the page.
+![Alt text](mobile-design.jpg)
